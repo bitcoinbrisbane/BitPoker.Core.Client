@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 
-namespace src
+namespace BitPoker.Core.Client.Web
 {
     public class Program
     {

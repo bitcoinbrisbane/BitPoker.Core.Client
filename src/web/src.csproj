@@ -13,5 +13,6 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="1.1.0" />
   </ItemGroup>
 
+  <RootNamespace>BitPoker.Core.Client.Web</RootNamespace>
 
 </Project>
